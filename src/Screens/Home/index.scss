@@ -1,0 +1,14 @@
+.wrap-content-home{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 20%;
+    background-color: #dfe6e9;
+}
+.wrap-new-item{
+    display: flex;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
